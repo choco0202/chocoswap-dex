@@ -1,0 +1,1 @@
+.loader{-webkit-animation:animate-loader 1s infinite;animation:animate-loader 1s infinite;display:flex}@-webkit-keyframes animate-loader{0%{transform:rotate(0)}to{transform:rotate(1turn)}}@keyframes animate-loader{0%{transform:rotate(0)}to{transform:rotate(1turn)}}
