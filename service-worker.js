@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ab12ee01bbc4b3ab9475cb867e2d9d78.js"
+  "/precache-manifest.3b6bc1b2f742f333e6d254ac81b9cada.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vdex.js"});
